@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University’s National Edge AI Hub, driving cloud-native research infrastructure and automation platforms.
+Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's National Edge AI Hub, driving cloud-native research infrastructure and automation platforms.
 
 ---
 
@@ -56,6 +56,12 @@ Experienced Research and Infrastructure Engineer with 4+ years in Linux-based in
 ## 🌟 Interests
 
 Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge AI Infrastructure • Kubernetes Ecosystems • Automation Engineering
+
+---
+
+## 📚 Development & Experimentation
+
+I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimentation space where I'm testing cloud-based development workflows. Projects developed there will be **migrated to this main account** at later stages of development.
 
 ---
 
