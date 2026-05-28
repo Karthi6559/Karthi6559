@@ -49,7 +49,7 @@ Experienced Research and Infrastructure Engineer with 4+ years in Linux-based in
 
 ## 📜 Certifications
 
-`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`
+`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Developer (CAD)`
 
 ---
 
