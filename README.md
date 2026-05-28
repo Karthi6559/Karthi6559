@@ -1,70 +1,67 @@
-# Hello, I'm Karthi! 👋
+# 👨‍💻 Karthick Keeranagere Krishnaiah
 
-Welcome to my GitHub profile. I'm a passionate developer with expertise in cloud infrastructure, big data, machine learning, and full-stack web applications.
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure" />
+<img src="https://img.shields.io/badge/DevOps-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Research-Engineering-success?style=for-the-badge" />
 
-## 📊 Profile Overview
+</div>
 
-- **GitHub User**: [Karthi6559](https://github.com/Karthi6559)
-- **Focus Areas**: Cloud Computing, Big Data, Machine Learning, Java, Python, ReactJS
-- **Experience**: Enterprise Middleware, Microservices, IoT Systems, Load Testing & Monitoring
+<div align="center">
 
----
+📍 Newcastle upon Tyne, UK • 📧 [karthck1999@gmail.com](mailto:karthck1999@gmail.com) • 📞 +44 7353 014315
 
-## 💻 Technology Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthick-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/karthick-krishnaiah)
+[![GitHub](https://img.shields.io/badge/GitHub-Karthi6559-black?style=flat-square&logo=github)](https://github.com/Karthi6559)
 
-### Languages
-- **Java** - OOP, Design Patterns, Enterprise Applications
-- **Python** - Big Data, Machine Learning, IoT
-- **JavaScript/ReactJS** - Frontend Development
-- **Shell** - System Administration & Scripting
-- **HTML** - Web Development
-
-### Cloud Platforms
-- **AWS** - EC2, S3, IAM
-- **Azure** - Application Hosting
-- **OpenShift** - Kubernetes-based Cloud Platform
-
-### Big Data & ML
-- **Apache Spark** - Big Data Processing
-- **Hadoop** - Distributed Computing
-- **Machine Learning** - Regression, Classification
-
-### DevOps & Monitoring
-- **Kubernetes** - Container Orchestration
-- **Docker** - Containerization
-- **Load Testing** - Performance Analysis
+</div>
 
 ---
 
-## 🎯 Areas of Expertise
+## 🚀 About Me
 
-✅ **Cloud Computing** - AWS, Azure, OpenShift  
-✅ **Big Data** - Spark, Hadoop  
-✅ **Machine Learning** - Regression, Classification, IoT ML Systems  
-✅ **Backend Development** - Java, Node.js, Enterprise Middleware  
-✅ **Frontend Development** - ReactJS, React Components  
-✅ **DevOps** - Kubernetes, Docker, Load Testing & Monitoring  
-✅ **System Administration** - Unix/Shell Scripting  
-✅ **Software Architecture** - Microservices, Design Patterns  
+Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University’s National Edge AI Hub, driving cloud-native research infrastructure and automation platforms.
 
 ---
 
-## 📦 Want to see my projects?
+## ⚡ Skills
 
-Why not channel your inner explorer and check out my repositories? There’s something for everyone—or at least something for the brave! 🚀
-
----
-
-## 📫 Connect With Me
-
-- **GitHub**: [Karthi6559](https://github.com/Karthi6559)
-- **LinkedIn**: [linkedin.com/in/karthick-krishnaiah](https://www.linkedin.com/in/karthick-krishnaiah/)
-- Feel free to explore my repositories and contribute!
+- **Cloud & Infrastructure:** Azure, Kubernetes, AKS, Linux Administration, Nginx
+- **Programming & Automation:** Python, Bash, C, C++
+- **Scientific Computing:** NumPy, Scikit-Learn, PySpark, Data Pipelines
+- **DevOps:** CI/CD, Infrastructure Automation, Monitoring, Incident Management
+- **Security:** Vulnerability Remediation, Secure Deployments
+- **Documentation & Training:** SOPs, Technical Docs, Training Sessions
 
 ---
 
-**Last Updated**: May 28, 2026
+## 🎓 Education
 
-*This profile encompasses my journey in software development, cloud architecture, and data science. Each project represents learning, innovation, and practical application of modern technologies.*
+**MSc Cloud Computing — Newcastle University** _(Expected August 2026)_
+
+**BEng Electronics & Communication Engineering**
+
+---
+
+## 📜 Certifications
+
+`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`
+
+---
+
+## 🌟 Interests
+
+High Performance Computing (HPC) • Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge AI Infrastructure • Kubernetes Ecosystems • Automation Engineering
+
+---
+
+## 📫 Contact
+
+Feel free to connect for collaboration, research engineering opportunities, or cloud infrastructure discussions.
+
+📧 [karthck1999@gmail.com](mailto:karthck1999@gmail.com)  
+🔗 [linkedin.com/in/karthick-krishnaiah](https://linkedin.com/in/karthick-krishnaiah)  
+💻 [github.com/Karthi6559](https://github.com/Karthi6559)
