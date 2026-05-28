@@ -61,7 +61,7 @@ Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge
 
 ## 📚 Development & Experimentation
 
-I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimentation space where I'm testing cloud-based development workflows. Projects developed there will be **migrated to this main account** at later stages of development.
+I'm currently experimenting with **VS Code CodeSpace** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimentation space where I'm testing cloud-based development workflows. Projects developed there will be **migrated to this main account** at later stages of development.
 
 ---
 
