@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure" />
 <img src="https://img.shields.io/badge/DevOps-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -29,7 +30,7 @@ Experienced Research and Infrastructure Engineer with 4+ years in Linux-based in
 
 ## ⚡ Skills
 
-- **Cloud & Infrastructure:** Azure, Kubernetes, AKS, Linux Administration, Nginx
+- **Cloud & Infrastructure:** AWS, Azure, Kubernetes, AKS, Linux Administration, Nginx
 - **Programming & Automation:** Python, Bash, C, C++
 - **Scientific Computing:** NumPy, Scikit-Learn, PySpark, Data Pipelines
 - **DevOps:** CI/CD, Infrastructure Automation, Monitoring, Incident Management
@@ -48,13 +49,13 @@ Experienced Research and Infrastructure Engineer with 4+ years in Linux-based in
 
 ## 📜 Certifications
 
-`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`
+`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`
 
 ---
 
 ## 🌟 Interests
 
-High Performance Computing (HPC) • Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge AI Infrastructure • Kubernetes Ecosystems • Automation Engineering
+Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge AI Infrastructure • Kubernetes Ecosystems • Automation Engineering
 
 ---
 
