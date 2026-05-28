@@ -1,9 +1,13 @@
-# 👨‍💻 Karthick Keeranagere Krishnaiah
+# 👨‍💻 Karthick Keeranagere Krishnaiah | ServiceNow ESM | Cloud & DevOps Engineer
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
 <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoftazure" />
+<img src="https://img.shields.io/badge/ESM-ServiceNow-2D5016?style=for-the-badge&logo=servicenow&logoColor=white" />
+<img src="https://img.shields.io/badge/Observability-Newrelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" />
+<img src="https://img.shields.io/badge/Observability-Nagios-000?style=for-the-badge&logo=nagios&logoColor=white" />
+<img src="https://img.shields.io/badge/Observability-Zabbix-2C3E7F?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/DevOps-Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -24,13 +28,15 @@
 
 ## 🚀 About Me
 
-Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's National Edge AI Hub, driving cloud-native research infrastructure and automation platforms.
+Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's National Edge AI Hub, driving cloud-native research infrastructure and automation platforms. Proficient in ServiceNow ESM, modern observability tools, and DevOps best practices.
 
 ---
 
 ## ⚡ Skills
 
 - **Cloud & Infrastructure:** AWS, Azure, Kubernetes, AKS, Linux Administration, Nginx
+- **Enterprise Service Management:** ServiceNow (CSA, CIS, CAD certified)
+- **Observability & Monitoring:** New Relic, Nagios, Zabbix, Incident Management
 - **Programming & Automation:** Python, Bash, C, C++
 - **Scientific Computing:** NumPy, Scikit-Learn, PySpark, Data Pipelines
 - **DevOps:** CI/CD, Infrastructure Automation, Monitoring, Incident Management
@@ -49,19 +55,19 @@ Experienced Research and Infrastructure Engineer with 4+ years in Linux-based in
 
 ## 📜 Certifications
 
-`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Developer (CAD)` |  `AWS - SAA (In-progress)`
+`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`  |  `ServiceNow Certified Application Developer (CAD)`  |  `AWS Solutions Architect Associate (In-progress)`
 
 ---
 
 ## 🌟 Interests
 
-Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge AI Infrastructure • Kubernetes Ecosystems • Automation Engineering
+Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge AI Infrastructure • Kubernetes Ecosystems • Automation Engineering • Enterprise Service Management
 
 ---
 
 ## 📚 Development & Experimentation
 
-I'm currently experimenting with **VS Code CodeSpace** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimentation space where I'm testing cloud-based development workflows. Projects developed there will be **migrated to this main account** at later stages of development.
+I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimentation space where I'm testing cloud-based development workflows. Projects developed there will be **migrated to this main account** at later stages of development.
 
 ---
 
