@@ -28,7 +28,9 @@
 
 ## 🚀 About Me
 
-Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's National Edge AI Hub, driving cloud-native research infrastructure and automation platforms. Proficient in ServiceNow ESM, modern observability tools, and DevOps best practices.
+Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's Natio[...]
+
+A practical-minded engineer inspired by Bob the Builder — "Can we fix it? Yes we can!" — I bring a can-do, build-and-improve attitude to every platform and pipeline I touch.
 
 ---
 
@@ -55,7 +57,7 @@ Experienced Research and Infrastructure Engineer with 4+ years in Linux-based in
 
 ## 📜 Certifications
 
-`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`  |  `ServiceNow Certified Application Developer (CAD)`  |  `AWS Solutions Architect Associate (In-progress)`
+`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`  |  `ServiceNow Ce[...]
 
 ---
 
@@ -67,7 +69,7 @@ Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge
 
 ## 📚 Development & Experimentation
 
-I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimentation space where I'm testing cloud-based development workflows. Projects developed there will be **migrated to this main account** at later stages of development.
+I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimen[...]
 
 ---
 
