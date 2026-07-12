@@ -28,7 +28,7 @@
 
 ## 🚀 About Me
 
-Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's Natio[...[...]
+Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's National Edge AI hub.
 
 A practical-minded engineer inspired by Bob the Builder — "Can we fix it? Yes we can!" — I bring a can-do, build-and-improve attitude to every platform and pipeline I touch.
 
@@ -57,7 +57,7 @@ A practical-minded engineer inspired by Bob the Builder — "Can we fix it? Yes 
 
 ## 📜 Certifications
 
-`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`  |  `ServiceNow Ce[...[...]
+`ITIL v4 Foundation`  |  `Microsoft Azure Fundamentals (AZ-900)`  |  `ServiceNow Certified System Administrator (CSA)`  |  `ServiceNow Certified Implementation Specialist (CIS)`  |  `Azure-104`
 
 ---
 
@@ -69,7 +69,7 @@ Cloud-Native Platforms • DevSecOps • Scientific Computing • AIOps • Edge
 
 ## 📚 Development & Experimentation
 
-I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experimen[...]
+I'm currently experimenting with **VS Code in the GitHub cloud** using the **GitHub Student Pack** on my development account [@Karthi65592](https://github.com/Karthi65592). This is an active experiment.
 
 ---
 
