@@ -30,7 +30,7 @@
 
 Experienced Research and Infrastructure Engineer with 4+ years in Linux-based infrastructure, cloud platforms, scientific computing, and CI/CD automation. Currently at Newcastle University's National Edge AI hub.
 
-A practical-minded engineer inspired by Bob the Builder — "Can we fix it? Yes we can!" — I bring a can-do, build-and-improve attitude to every platform and pipeline I touch.
+A practical-minded engineer inspired by Bob the Builder but a better version of him who Loves connecting two dots from two different domains to make a reasonable product.
 
 ---
 
