@@ -1,4 +1,4 @@
-# 👨‍💻 Karthick Keeranagere Krishnaiah | Cloud & DevOps Engineer | ServiceNow ESM
+# 👨‍💻 Karthick Krishnaiah | Cloud & DevOps Engineer | ServiceNow ESM
 
 <div align="center">
 
